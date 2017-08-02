@@ -1,2 +1,2 @@
 # WeatherModule
-This is an weather forecast android application
+This is a weather forecast android application
